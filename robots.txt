@@ -1,0 +1,40 @@
+
+User-agent: *
+Disallow: /gvgpht2p
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://videovibeworld.com/gvgpht2p/sitemap.xml
+
+User-agent: *
+Disallow: /5ac5ryy5
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://videovibeworld.com/5ac5ryy5/sitemap.xml
+
+User-agent: *
+Disallow: /whrr9
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://videovibeworld.com/whrr9/sitemap.xml
+
+User-agent: *
+Disallow: /numb-meaning-att
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://videovibeworld.com/numb-meaning-att/sitemap.xml
+
+User-agent: *
+Disallow: /w8f9allo
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://videovibeworld.com/w8f9allo/sitemap.xml
